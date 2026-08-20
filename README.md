@@ -25,7 +25,7 @@ production use, not just examples.
 
 #### Nice to haves (AI-assisted)
 
-- [codekeyboard](https://github.com/ikouchiha47/codekeyboard): a split, column-staggered Android keyboard for coders, with a matching React Native in-app keyboard
+- [codekeyboard](https://github.com/ikouchiha47/codekeyboard): a split, column-staggered Android keyboard for coders, with configurable shortcuts, layouts, and prediction
 - [krearts](https://github.com/ikouchiha47/krearts): comic book and screenplay moodboarding
 
 #### The archive
