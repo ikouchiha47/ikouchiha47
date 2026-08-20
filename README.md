@@ -5,14 +5,23 @@ composable Go libraries: rate limiting, DB read/write resolution,
 sequential ID generation, log routing, and more, built for real
 production use, not just examples.
 
-#### A few things worth a look
+#### Serious projects
+
+- [cinestar](https://github.com/ikouchiha47/cinestar): media search engine
+- [go-batteries/ivy](https://github.com/go-batteries/ivy): AWS tool to fetch from SSM params
+- [httparty](https://github.com/ikouchiha47/httparty): a rule engine that chains HTTP requests from a JSON config
+- [bhist](https://github.com/ikouchiha47/bhist): async browser-history search, indexed with Xapian
+- [ssh-manager](https://github.com/ikouchiha47/ssh-manager): a CLI for handling SSH config
+- [dbresolver](https://github.com/go-batteries/dbresolver): segregates read/write DB queries, coalesces requests
+- [ratelimiter](https://github.com/go-batteries/ratelimiter): a collection of rate limiters in Go
+- [snowflake](https://github.com/go-batteries/snowflake): sequential ID generator
+
+#### Editor tooling and themes
 
 - [turboc.nvim](https://github.com/ikouchiha47/turboc.nvim): a modernised recreation of the turboc colorscheme
-- [clippy](https://github.com/ikouchiha47/clippy): clipboard history, cross-platform
+- [games.nvim](https://github.com/ikouchiha47/games.nvim): a collection of games for Neovim
 - [everm](https://github.com/ikouchiha47/everm): Emacs Version Manager
-- [httparty](https://github.com/ikouchiha47/httparty): drive HTTP calls from a JSON config file
-- [ssh-manager](https://github.com/ikouchiha47/ssh-manager): a CLI for handling SSH config
-- [bhist](https://github.com/ikouchiha47/bhist): async browser-history search, indexed with Xapian
+- [clippy](https://github.com/ikouchiha47/clippy): clipboard history, cross-platform
 
 #### The archive
 
