@@ -9,6 +9,7 @@ production use, not just examples.
 
 - [cinestar](https://github.com/ikouchiha47/cinestar): media search engine
 - [go-batteries/ivy](https://github.com/go-batteries/ivy): AWS tool to fetch from SSM params
+- [go-batteries/optimux](https://github.com/go-batteries/optimux): optimize and serve images/video on the fly
 - [httparty](https://github.com/ikouchiha47/httparty): a rule engine that chains HTTP requests from a JSON config
 - [bhist](https://github.com/ikouchiha47/bhist): async browser-history search, indexed with Xapian
 - [ssh-manager](https://github.com/ikouchiha47/ssh-manager): a CLI for handling SSH config
