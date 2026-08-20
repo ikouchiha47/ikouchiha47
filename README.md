@@ -25,10 +25,11 @@ production use, not just examples.
 - [everm](https://github.com/ikouchiha47/everm): Emacs Version Manager
 - [clippy](https://github.com/ikouchiha47/clippy): clipboard history, cross-platform
 
-#### Nice to haves (AI-assisted)
+#### Nice to haves
 
 - [codekeyboard](https://github.com/ikouchiha47/codekeyboard): a split, column-staggered Android keyboard for coders, with configurable shortcuts, layouts, and prediction
 - [krearts](https://github.com/ikouchiha47/krearts): comic book and screenplay moodboarding
+- [hokedex](https://github.com/parodevstudios/hokedex) a pokedex of people you have meetup
 
 #### The archive
 
