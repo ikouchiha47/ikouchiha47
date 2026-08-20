@@ -1,9 +1,7 @@
 ### Hi, I'm ikouchiha47
 
-I maintain [go-batteries](https://github.com/go-batteries), a set of
-composable Go libraries: rate limiting, DB read/write resolution,
-sequential ID generation, log routing, and more, built for real
-production use, not just examples.
+I maintain [go-batteries](https://github.com/go-batteries), a set of composable Go libraries, built for real
+production use. This particular repo is a bunch of experiments, clout gathering and backup for other stuff.
 
 #### Serious projects
 
@@ -17,6 +15,10 @@ production use, not just examples.
 - [dbresolver](https://github.com/go-batteries/dbresolver): segregates read/write DB queries, coalesces requests
 - [ratelimiter](https://github.com/go-batteries/ratelimiter): a collection of rate limiters in Go
 - [snowflake](https://github.com/go-batteries/snowflake): sequential ID generator
+
+#### Hardware Stuff
+
+- [cybertron](https://github.com/ikouchiha47/cybertron/) Collection of firmware and other related fun shitz
 
 #### Editor tooling and themes
 
