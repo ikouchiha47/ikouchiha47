@@ -31,6 +31,7 @@ production use. This particular repo is a bunch of experiments, clout gathering 
 
 - [codekeyboard](https://github.com/ikouchiha47/codekeyboard): a split, column-staggered Android keyboard for coders, with configurable shortcuts, layouts, and prediction
 - [krearts](https://github.com/ikouchiha47/krearts): comic book and screenplay moodboarding
+- [adaptui](https://github.com/ikouchiha47/adaptui/) a dig at using AI based UI/UX generation on the fly
 - [hokedex](https://github.com/parodevstudios/hokedex) a pokedex of people you have meetup
 
 #### The archive
