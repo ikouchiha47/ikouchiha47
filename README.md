@@ -23,6 +23,11 @@ production use, not just examples.
 - [everm](https://github.com/ikouchiha47/everm): Emacs Version Manager
 - [clippy](https://github.com/ikouchiha47/clippy): clipboard history, cross-platform
 
+#### Nice to haves (AI-assisted)
+
+- [codekeyboard](https://github.com/ikouchiha47/codekeyboard): a split, column-staggered Android keyboard for coders, with a matching React Native in-app keyboard
+- [krearts](https://github.com/ikouchiha47/krearts): comic book and screenplay moodboarding
+
 #### The archive
 
 Old learning projects from over the years are preserved, full commit
