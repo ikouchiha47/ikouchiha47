@@ -5,10 +5,11 @@ production use. This particular repo is a bunch of experiments, clout gathering 
 
 #### Serious projects
 
+- [go-batteries/optimux](https://github.com/go-batteries/optimux): optimize and serve images/video on the fly
+- [go-batteries/streamux](https://github.com/go-batteries/streamux): http2 prioritization engine implementing RFC9113 &9218
 - [cinestar](https://github.com/ikouchiha47/cinestar): media search engine
 - [go-batteries/bananas](https://github.com/go-batteries/bananas): minimal, opinionated Go project setup, API-first
 - [go-batteries/ivy](https://github.com/go-batteries/ivy): AWS tool to fetch from SSM params
-- [go-batteries/optimux](https://github.com/go-batteries/optimux): optimize and serve images/video on the fly
 - [httparty](https://github.com/ikouchiha47/httparty): a rule engine that chains HTTP requests from a JSON config
 - [bhist](https://github.com/ikouchiha47/bhist): async browser-history search, indexed with Xapian
 - [ssh-manager](https://github.com/ikouchiha47/ssh-manager): a CLI for handling SSH config
