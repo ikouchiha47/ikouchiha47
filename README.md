@@ -25,6 +25,7 @@ production use. This particular repo is a bunch of experiments, clout gathering 
 - [everm](https://github.com/ikouchiha47/everm): Emacs Version Manager
 - [clippy](https://github.com/ikouchiha47/clippy): clipboard history, cross-platform
 
+
 #### Nice to haves
 
 - [codekeyboard](https://github.com/ikouchiha47/codekeyboard): a split, column-staggered Android keyboard for coders, with configurable shortcuts, layouts, and prediction
@@ -32,8 +33,8 @@ production use. This particular repo is a bunch of experiments, clout gathering 
 - [adaptui](https://github.com/ikouchiha47/adaptui/) a dig at using AI based UI/UX generation on the fly
 - [hokedex](https://github.com/parodevstudios/hokedex) a pokedex of people you have meetup
 
-
-#### Non sense shit
+#### Other stuff
+- [arbok-core](https://github.com/go-batteries/arbokcore) file upload system like dropbox, but backed by sqlite, good for single person use
 - [ssh-manager](https://github.com/ikouchiha47/ssh-manager): a CLI for handling SSH config
 - [dbresolver](https://github.com/go-batteries/dbresolver): segregates read/write DB queries, coalesces requests for gorm-v1
 - [snowflake](https://github.com/go-batteries/snowflake): sequential ID generator
